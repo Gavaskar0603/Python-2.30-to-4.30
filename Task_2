@@ -1,0 +1,25 @@
+Get a number from the user and check whether it is positive, negative, or zero.
+Get a student's marks in five subjects and calculate the total and average.
+Get a number and check whether it is divisible by 5.
+Get a number and check whether it is even or odd.
+Get a student's mark and display the grade using the following criteria:
+- 90–100: Grade A
+- 80–89: Grade B
+- 70–79: Grade C
+- 50–69: Grade D
+- Below 50: Fail
+
+Get a person's age and citizenship status and check voting eligibility.
+Get the number of rows and print the following pattern:
+     *
+    **
+   ***
+  ****
+ *****
+
+Get a number and check whether it is a palindrome.
+Print numbers from 1 to n, skipping multiples of 3 using continue.
+Print a message if a given character is a vowel.
+Check whether a number is a perfect square.
+Print the multiplication table of a number.
+Reverse a string using a for loop.
