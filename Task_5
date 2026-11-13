@@ -1,0 +1,21 @@
+1. Even or Odd Checker: Get a number from the user and create a function to check whether it is even or odd.
+2. Largest Number Finder: Get three numbers from the user and create a function to find the largest number using conditional statements.
+3. Positive, Negative or Zero: Get a number and create a function to identify whether it is positive, negative, or zero.
+4. Student Grade Calculator: Get five subject marks and create a function to calculate total, average, and grade using if-elif-else.
+5. Leap Year Checker: Get a year from the user and create a function to check whether it is a leap year.
+6. Electricity Bill Calculator: Get electricity units consumed and create a function to calculate the bill based on different consumption slabs.
+7. Multiplication Table: Get a number and create a function to generate its multiplication table using a for loop.
+8. Prime Number Checker: Get a number and create a function to check whether it is prime using a for loop.
+9. Fibonacci Series: Get the number of terms and create a function to generate the Fibonacci series using a loop.
+10. Armstrong Number Checker: Get a number and create a function to check whether it is an Armstrong number.
+11. List Statistics: Get n numbers and create a function to find the largest, smallest, sum, and average.
+12. Duplicate Remover: Get a list of numbers and create a function to remove duplicate elements.
+13. Even and Odd Separator: Get a list of numbers and create a function to separate even and odd numbers into two different lists.
+14. Second Largest Number: Get a list of numbers and create a function to find the second-largest distinct number.
+15. Shopping Bill Generator: Create a function that accepts product name, quantity, and price and returns the total bill. Use default arguments for discount percentage.
+16. Employee Profile Generator: Create a function using **kwargs to accept employee information and display the complete profile.
+17. Recursive Fibonacci: Get the number of terms and generate the Fibonacci sequence using recursion.
+18. Get a list of numbers and generate their squares using map() and a lambda function.
+19. Get a list of numbers and filter only prime numbers using filter() and a user-defined function.
+20. Get student marks and filter students who scored above 50. Use filter().
+21. Get employee salaries and increase each salary by 10% using map().
